@@ -4,7 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 *.log
-models/
 .streamlit/
 .DS_Store
 Thumbs.db
